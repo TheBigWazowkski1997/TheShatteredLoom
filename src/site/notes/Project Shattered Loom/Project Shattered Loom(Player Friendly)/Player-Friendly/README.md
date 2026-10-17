@@ -4,217 +4,191 @@
 
 
 # 🌌 Welcome to the Shattered Loom
-## A Player's Guide to the Fractured Multiverse
+## A Player's Guide & Wiki to the Fractured Multiverse
 
-> *"In the beginning, there was only the Loom. It was the absolute architecture of reality, woven by Telara, the Prime Weaver. In those days, fate was not a mystery; it was a visible golden thread."*
-
----
-
-## 📖 What Is This?
-
-This is the **Player-Friendly Guide** to the **Shattered Loom** campaign setting. It contains everything your character would know—common knowledge, rumors, legends, and the "Mortal Understanding" of the multiverse.
-
-**No stat blocks. No DM secrets. No spoilers.** Just the world as your character sees it.
+> *"In the beginning, there was only the Loom. It was the absolute architecture of reality, woven by Telara, the Prime Weaver. In those days, fate was not a mystery; it was a visible golden thread. Everything was connected, held in perfect tension. Then the Loom shattered—and the world became fragments stitched together by golden filaments drifting in the Astral Sea."*
 
 ---
 
-## 🧭 Quick Start: The Big Picture
+## 📖 Welcome, Traveler
+This is the **Player-Friendly Wiki & Setting Guide** for the **Project Shattered Loom** campaign. It contains all public knowledge, planar geography, faction dossiers, scholar treatises, city guides, regional maps, and adventure chronicles known to mortals and planar travelers.
 
-### The Shattering
-The goddess **Telara** wove the multiverse on her **Loom of Creation**. It was perfect. Balanced. Eternal.
-Then it broke.
-
-The **Silent Spindle** (her first creation) betrayed her. The **Primordial Lords** attacked. The **Great Dreamer** arrived from beyond. Telara sacrificed herself to hold reality together.
-
-Now the planes drift in the **Astral Sea**, stitched by **Golden Filaments**—the Loom's remnants. This is the **Fractured Nexus**.
-
-### Your Place In It
-You bear the **Mark of Telara**—a golden thread-pattern on your skin. It hums near Loom fragments. It burns near corruption. You are one of the few who can *feel* the weave.
+> [!NOTE]
+> **Spoiler-Free Guarantee**: This wiki contains zero DM stat blocks, combat mechanics, hidden encounter charts, or behind-the-screen secrets. All lore is written from an in-universe, player-safe perspective.
 
 ---
 
-## 🗺️ The Planes (Start Here)
+## 🧭 The Core Setting
 
-| Plane | What You Know | Key File |
-|-------|---------------|----------|
-| **The Material Plane** | The Crucible Realm—patchwork world with shatterpoints to other planes | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/The Material Plane\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/The Material Plane]] |
-| **The Feywild** | Vibrant, chaotic mirror of the Material. Ruled by Seelie & Unseelie Courts. Time flows strangely. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Feywild\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Feywild]] |
-| **The Shadowfell** | Dark, desolate mirror. Home to Domains of Dread (Barovia, Darkon, etc.) and the Raven Queen. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Shadowfell\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Shadowfell]] |
-| **The Nine Hells** | Nine layers of absolute Law. Devils harvest Soul-Threads to build the "Iron Spindle." | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Nine Hells/The Nine Hells\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Nine Hells/The Nine Hells]] |
-| **The Fractured Nexus** | The crossroads city—floating shards connected by Golden Filaments. Neutral ground. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Fractured Nexus/The Fractured Nexus\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Fractured Nexus/The Fractured Nexus]] |
-| **The Grand Archive** | Infinite library of all knowledge. Entry costs a memory. Run by the enigmatic Librarian. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Grand Archive/The Grand Archive\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Grand Archive/The Grand Archive]] |
-| **Ry'leh** | Impossible city of the Great Dreamer. Non-Euclidean. Madness and revelation. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/City Of Ry'leh/City Of Ry'leh\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/City Of Ry'leh/City Of Ry'leh]] |
-| **The Elemental Planes** | Fire, Water, Air, Earth—chaotic remnants of the primordial war. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/The Elemental Planes\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/The Elemental Planes]] |
-| **The 32 Chambers** | The Silent Spindle's prison for entities "too complex to exist." | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Prison Plane/The 32 Chambers\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Prison Plane/The 32 Chambers]] |
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Shattered Loom Universe\|The Shattered Loom Universe]]** — Overview of cosmic themes, planar drift, and the laws of the Shattered multiverse.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Shattering of the Loom\|The Shattering of the Loom]]** — The mortal and scholarly consensus of how the Golden Tapestry was broken.
+* **[[The Mark of Telara\|The Mark of Telara]]** — The golden thread-pattern glowing on your skin and what it signifies.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Timeline of the Shattered Loom - Graphical\|Timeline of the Shattered Loom - Graphical]]** — Major historical epochs from the Age of the Unbroken Tapestry to the Present Age.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/shattered_loom_calendar\|shattered_loom_calendar]]** — The interplanar calendar, lunar alignments, and seasonal cycles.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Relics of Power\|Relics of Power]]** — Legendary artifacts and surviving fragments of Telara's weave.
 
 ---
 
-## ⚖️ The Major Factions
+## 🗺️ Planes of Existence & Cartography
 
-| Faction | Goal | Philosophy |
-|---------|------|------------|
-| **The Pale Lodge** | Restore the Loom, maintain balance | "We mend what was broken." |
-| **The Cult of the Broken Thread** | Prevent restoration, embrace chaos | "A single thread binds. A broken thread liberates." |
-| **The Keepers of the Sacred Weft** | Restore using Telara's original blueprint | "To mend a shroud in the dark is to sew a shroud for the world." |
-| **The Consortium of the Gilded Caliper** | Regulate planar trade & craftsmanship | "Measure twice, shape with honor." |
+### 1. The Material Plane & Its Echoes
+The core realm of mortal life, bordered by vibrant reflections and shadowy dread.
 
-→ See [[Factions\|Factions]] for details.
-
----
-
-## 🌟 Key Cosmology
-
-* **The Shattered Loom Universe** — Core themes & unique features → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Shattered Loom Universe\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Shattered Loom Universe]]
-* **The Shattering of the Loom (Mortal Understanding)** — What scholars & common folk know → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Shattering of the Loom\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Shattering of the Loom]]
-* **The Blood War** — Eternal conflict: Devils (Rigidity) vs. Demons (Entropy) → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Blood War\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Blood War]]
-* **The Crimson Weave** — Loom fragment of vitality & blood, held by Strahd → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Crimson Weave\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Crimson Weave]]
-* **The Elder Evils** — Primal glitches: Father Llymic, Ragnorra, Atropus, Pandorym → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Elder Evils\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Elder Evils]]
-* **The Pact Primeval** — Asmodeus's blueprint for the Iron Spindle → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/The Pact Primeval\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/The Pact Primeval]]
+| Realm | Description | Map & Cities |
+| :--- | :--- | :--- |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/The Material Plane\|The Material Plane]]** | The Crucible Realm; patchwork world riddled with shatterpoints. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Map of the Material Plane\|Map of the Material Plane]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Feywild\|Feywild]]** | Vibrant, untamed plane of emotion and raw wonder; ruled by the Seelie & Unseelie Courts. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Map of the Feywild\|Map of the Feywild]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Shadowfell\|Shadowfell]]** | Desolate echo realm of despair, mist, and Domains of Dread ruled by Darklords. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Map of the Shadowfell\|Map of the Shadowfell]] |
+| **[[Cities of the Material Plane\|Cities of the Material Plane]]** | Major bastions of mortal civilization and frontier havens. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Cities of the Material Plane/The Molten Reach\|The Molten Reach]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Cities of the Material Plane/Ashara's Rest\|Ashara's Rest]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Material Plane/Cities of the Material Plane/Verdent Hollow\|Verdent Hollow]] |
 
 ---
 
-## 👥 Important NPCs (Public Knowledge)
+### 2. The Four Elemental Planes
+Vast, infinite expanses of raw primordial elements anchored by their respective deities.
 
-### The Pale Lodge Leadership
-* **Aelira, the Weftkeeper** — Diplomat, Spindle Lord of Harmony
-* **Kaelthar, the Threadwarden** — Warrior, Spindle Lord of Severance
-* **The Silent Spool** — Oracle, Keeper of the Nexus Spire
-* **Vaelen Corryn** — Your primary handler ("The Stitcher")
-* **Captain Seris Vael** — Pilot of *The Wraith*, tactical advisor
-
-### The Dreambound (Cult of the Great Dreamer)
-* **Maerith the Whisperer** — High Priestess
-* **Xelthar** — Guardian of the Ziggurat
-
-### The Gods & Primordials
-* **Telara** — The Prime Weaver, creator of the Loom
-* **Pale Night** — The Veiled Mother, first dream of entropy
-* **The Great Dreamer** — Eldritch entity sleeping in Ry'leh
-
-→ See [[Project Shattered Loom/Project Shattered Loom/Source/Monsters (Alt)/NPCs\|NPCs]] for full list.
+| Plane | Overview & Deity | Map | Key Metropolises & Citadels |
+| :--- | :--- | :--- | :--- |
+| **Elemental Plane of Fire** | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Fire/Plane Of Fire The Everblaze Expanse\|Plane Of Fire The Everblaze Expanse]]<br>• God: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God Of The Plane Of Fire/Ignivor, the Infernal Forge\|Ignivor, the Infernal Forge]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Fire/Map of the Plane of Fire\|Map of the Plane of Fire]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Fire/Cities of the Plane of Fire/The City of Brass\|The City of Brass]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Fire/Cities of the Plane of Fire/Cinderhold\|Cinderhold]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Fire/Cities of the Plane of Fire/Blazeward Keep\|Blazeward Keep]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Fire/Cities of the Plane of Fire/Emberspire\|Emberspire]] |
+| **Elemental Plane of Air** | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Air/Plane of Air The Skybound Expanse\|Plane of Air The Skybound Expanse]]<br>• God: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Air/Aurelion, the Skycaller\|Aurelion, the Skycaller]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Air/Map of the Plane of Air\|Map of the Plane of Air]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Air/Cities of the Plane of Air/Zephyros\|Zephyros]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Air/Cities of the Plane of Air/Stormhold\|Stormhold]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Air/Cities of the Plane of Air/SkySong Isles\|SkySong Isles]] |
+| **Elemental Plane of Earth** | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Earth/Plane of Earth The Unyielding Depths\|Plane of Earth The Unyielding Depths]]<br>• God: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Earth/Terridon, the Unyielding Pillar\|Terridon, the Unyielding Pillar]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Earth/Map of the Plane of Earth\|Map of the Plane of Earth]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Earth/Cities of The Plane of Earth/Obsidian Cradle\|Obsidian Cradle]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Earth/Cities of The Plane of Earth/Gemspire Cradle\|Gemspire Cradle]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane of Earth/Cities of The Plane of Earth/The Deepmaw Quarry\|The Deepmaw Quarry]] |
+| **Elemental Plane of Water** | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane Of Water/Plane of Water The Azure Expanse\|Plane of Water The Azure Expanse]]<br>• God: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God Of Plane Of Water/Nereia, the Depthmother\|Nereia, the Depthmother]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane Of Water/Map of the Plane of Water\|Map of the Plane of Water]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane Of Water/Cities of Plane of Water/Pearldome\|Pearldome]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane Of Water/Cities of Plane of Water/The Sapphire Abyss\|The Sapphire Abyss]]<br>[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/Plane Of Water/Cities of Plane of Water/Tidehaven\|Tidehaven]] |
+| **Summary Guide** | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Elemental Planes/The Elemental Planes\|The Elemental Planes]] | — | Comprehensive inner-planar navigation |
 
 ---
 
-## 🧬 Species & Creatures (Lore Only)
+### 3. Outer Planes & Divine Shards
+Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
-* **Hag Dragons** — Fey-warped draconic abominations that feed on lifespan → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Hag Dragon\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Hag Dragon]]
-* **Riftborn** — Beings of starlight & geometry, native to the Nexus
-* **Shadar-kai** — Shadow-touched elves of the Shadowfell
-* **Eladrin** — Seasonal fey of the Feywild
-
----
-
-## ⚔️ Magic & Artifacts
-
-* **Legacy Items** — Weapons that grow with your deeds → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/Legacy Items\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/Legacy Items]]
-* **Spell Jammers** — Planar vessels: Aether Gale, Emberwing, Verdant Voyager, Starbound Colossus, Whispering Wraith → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/Spell Jammers\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/Spell Jammers]]
-* **The Pact Primeval** — The devils' contract for a new reality → [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/The Pact Primeval\|Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/The Pact Primeval]]
-
----
-
-## 📌 Common Knowledge Cheat Sheet
-
-| Concept | What It Means |
-|---------|---------------|
-| **Shatterpoint** | Thin spot between planes; portal or rift |
-| **Golden Filaments** | Loom remnants connecting planar shards |
-| **Soul-Thread** | Your destiny strand; devils want it |
-| **Mark of Telara** | Your golden thread-mark; hums near Loom shards |
-| **The Song of the Loom** | Constant hum in the Nexus; pitch changes = danger |
-| **Planar Bleed** | One plane's influence leaking into another |
-| **Thread-Walk** | Bridge of woven light between Nexus islands |
-| **The Frayed End** | Neutral tavern in the Nexus; blades stay sheathed |
-| **Planar Bleed (drink)** | Tastes like your happiest memory; aftertaste of regret |
+| Realm | Title & Manifestation | Cartography | Presiding Deity |
+| :--- | :--- | :--- | :--- |
+| **[[Plane of Secrets Ocean of Whispers\|Plane of Secrets]]** | The Ocean of Whispers | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Map of the Plane of Secrets\|Map of the Plane of Secrets]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Secrets/Zathara, the Whispering Tide\|Zathara, the Whispering Tide]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Infinite Hunger/Plane of Infinite Hunger The Spiral Abyss\|Plane of Infinite Hunger]]** | The Spiral Abyss | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Infinite Hunger/Map of the Plane of Infinite Hunger\|Map of the Plane of Infinite Hunger]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of the Plane of Infinite Hunger/Vorzath, the Maw Eternal\|Vorzath, the Maw Eternal]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Wild Balance/Plane of Wild Balance Verdant Nexus\|Plane of Wild Balance]]** | The Verdant Nexus | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Wild Balance/Map of the Plane of Wild Balance\|Map of the Plane of Wild Balance]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Wild Balance/Syltheris, the Eternal Bloom\|Syltheris, the Eternal Bloom]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Unity/Plane of UnityThe Woven Citadel\|Plane of Unity]]** | The Woven Citadel | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Unity/Map of the Plane of Unity\|Map of the Plane of Unity]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Unity/Althera, the Great Weaver\|Althera, the Great Weaver]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Shattered Law/Plane of Shattered Law The Fractured Spire\|Plane of Shattered Law]]** | The Fractured Spire | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Shattered Law/Map of the Plane of Shattered Law\|Map of the Plane of Shattered Law]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Shattered Law/Regnath, the Shardlord\|Regnath, the Shardlord]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Eternal Craft/Plane of Eternal Craft Forgeflame Expanse\|Plane of Eternal Craft]]** | The Forgeflame Expanse | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Eternal Craft/Map of the Plane of Eternal Craft\|Map of the Plane of Eternal Craft]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Eternal Craft/Kaldryn, the Eternal Artisan\|Kaldryn, the Eternal Artisan]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Avarice/Plane of Avarice The Gilded Eternity\|Plane of Avarice]]** | The Gilded Eternity | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Avarice/Map of the Plane of Avarice\|Map of the Plane of Avarice]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Avarice/Grelthor, the Golden Hoard\|Grelthor, the Golden Hoard]] |
+| **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Fragmented memories/Plane of Fragmented Memories - The Shardlands\|Plane of Fragmented Memories]]** | The Shardlands | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Fragmented memories/Map of the Plane of Fragmented Memories\|Map of the Plane of Fragmented Memories]] | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Fragmented Memories/Eryndar, Keeper of Echoes\|Eryndar, Keeper of Echoes]] |
 
 ---
 
-## 🎯 Adventure Hooks (Rumors You've Heard)
+### 4. Planar Hubs, Anomalies & Dread Realities
 
-* **The Loom Fragments** — Scattered across planes. Collecting them could mend reality... or give someone godlike power.
-* **The Silent Spindle Lives** — Hiding in the Astral Sea. Destroy it? Redeem it?
-* **The Great Dreamer Stirs** — Its dreams leak into reality. The Dreambound cult seeks to wake it.
-* **Strahd Holds the Crimson Weave** — In Castle Ravenloft, Barovia. A Loom fragment of blood & vitality.
-* **The Pale Lodge Needs Threadwalkers** — They hire adventurers to recover shards, monitor rifts, mediate conflicts.
-* **The Blood War Spills Over** — Material Plane shards become proxy battlefields. Devils offer "protection"; demons bring rot.
-
----
-
-## 🔗 Quick Navigation
-
-```
-Player-Friendly/
-├── Cosmology/
-│   ├── The Shattered Loom Universe.md
-│   ├── The Shattering of the Loom.md
-│   ├── The Blood War.md
-│   ├── The Crimson Weave.md
-│   └── The Elder Evils.md
-├── Planes of Existence/
-│   ├── The Material Plane/
-│   │   ├── The Material Plane.md
-│   │   ├── Feywild.md
-│   │   └── Shadowfell.md
-│   ├── The Nine Hells/
-│   │   └── The Nine Hells.md
-│   ├── The Fractured Nexus/
-│   │   └── The Fractured Nexus.md
-│   ├── The Grand Archive/
-│   │   └── The Grand Archive.md
-│   ├── City Of Ry'leh/
-│   │   ├── City Of Ry'leh.md
-│   │   └── The Submerged Ziggurat.md
-│   ├── Elemental Planes/
-│   │   └── The Elemental Planes.md
-│   └── The Prison Plane/
-│       └── The 32 Chambers.md
-├── Factions/
-│   ├── The Pale Lodge/
-│   │   └── The Pale Lodge.md
-│   ├── The Cult of The Broken Thread.md
-│   ├── The Keepers of the Sacred Weft.md
-│   └── The Consortium of the Gilded Caliper.md
-├── Species/
-│   └── Hag Dragon.md
-├── NPCs/
-│   ├── Key NPCs - The Gilded Caliper.md
-│   ├── Key NPCs - Pale Lodge.md
-│   ├── Key NPCs - Dreambound.md
-│   ├── Aelira, the Weftkeeper.md
-│   ├── Kaelthar, the Threadwarden.md
-│   ├── The Silent Spool.md
-│   ├── Vaelen Corryn.md
-│   ├── Captain Seris Vael.md
-│   ├── Xelthar.md
-│   ├── Maerith the Whisperer.md
-│   └── Gods/
-│       ├── Telara.md
-│       └── Pale Night.md
-└── Magic/
-    ├── Legacy Items.md
-    ├── Spell Jammers.md
-    └── The Pact Primeval.md
-```
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Fractured Nexus/The Fractured Nexus\|The Fractured Nexus]]** — The crossroads of the multiverse; floating island city connected by glowing Golden Filaments.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Grand Archive/The Grand Archive\|The Grand Archive]]** — Infinite library containing records of every thread ever spun. Entry tithe: a true memory.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Nine Hells/The Nine Hells\|The Nine Hells]]** & **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Nine Hells/Map of the Nine Hells\|Map of the Nine Hells]]** — Nine tiers of tyrannical order; devils harvesting soul-threads to forge the Iron Spindle.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Abyss/The Abyss\|The Abyss]]** — Bottomless chasm of infinite chaos, entropy, and demonic savagery.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Prison Plane/The 32 Chambers\|The 32 Chambers]]** — The Silent Spindle's inescapable prison for concepts and entities deemed too dangerous to exist.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/City Of Ry'leh/City Of Ry'leh\|City Of Ry'leh]]** & **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/City Of Ry'leh/The Submerged Ziggurat\|The Submerged Ziggurat]]** — The sunken cyclopean necropolis where the Great Dreamer slumbers.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/The Far Realm/The Far Realm\|The Far Realm]]** — Madness beyond reality's borders where the geometry of thought unravels.
 
 ---
 
-## 💡 Tips for Players
+## 🏛️ The Ten Great Factions
 
-1. **Trust your Mark** — It's your compass. Warmth = on the right path. Pain = danger/corruption.
-2. **Information is currency** — In the Nexus, secrets buy more than gold.
-3. **Neutral ground is sacred** — The Frayed End, the Grand Archive. Break the peace at your peril.
-4. **The Blood War is a trap** — Neither side winning is good. The Pale Lodge maintains the balance.
-5. **Your choices matter** — Every signature, every soul saved or lost, every thread mended or cut... it all feeds the Loom.
+| Faction | Philosophy | Core Agenda | Dossier Link |
+| :--- | :--- | :--- | :--- |
+| **The Pale Lodge** | *"We mend what was broken."* | Stabilize planar bleed, recover Loom shards, and guide Threadwalkers. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Pale Lodge/The Pale Lodge\|The Pale Lodge]] |
+| **The Cult of the Broken Thread** | *"A single thread binds; a broken thread liberates."* | Oppose restoration, embrace cosmic entropy, and shatter reality further. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Cult of The Broken Thread\|The Cult of The Broken Thread]] |
+| **The Keepers of the Sacred Weft** | *"To mend in the dark is to sew a shroud for the world."* | Rebuild reality strictly adhering to Telara's original pristine blueprint. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Keepers of the Sacred Weft\|The Keepers of the Sacred Weft]] |
+| **The Consortium of the Gilded Caliper** | *"Measure twice, shape with honor."* | Regulate planar commerce, trade routes, tariffs, and guild rights. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Consortium of the Gilded Caliper\|The Consortium of the Gilded Caliper]] |
+| **The Ironbound Covenant** | *"Forged in resolve, unbroken by the void."* | Planar defense, mercenary discipline, and martial stability. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Ironbound Covenant\|The Ironbound Covenant]] |
+| **The Kargat** | *"Darkon remembers every whisper."* | Secret police and undead intelligence network serving the throne of Darkon. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Kargat\|The Kargat]] |
+| **The Keepers of the Feather** | *"Wings against the shadow."* | Wereraven resistance fighting the tyranny of Castle Ravenloft. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Keepers of the Feather\|The Keepers of the Feather]] |
+| **The Priests of Osybus** | *"Death is merely the crucible of power."* | Ancient death cult seeking metaphysical transcendence and dark immortality. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Priests of Osybus\|The Priests of Osybus]] |
+| **The Shadar-kai Memory-Sworn** | *"Every grief belongs to the Queen."* | Elite shadow elves harvesting emotionally potent memories for the Raven Queen. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Shadar-kai Memory-Sworn\|The Shadar-kai Memory-Sworn]] |
+| **The Ulmist Inquisition** | *"The mind is the only fortress."* | Order of psionic inquisitors dedicated to purging mental corruption. | [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Factions/The Ulmist Inquisition\|The Ulmist Inquisition]] |
 
 ---
 
-## 📝 For the DM
+## 👥 Dramatis Personae (95 Notable NPCs)
 
-*This version excludes:* Stat blocks, combat profiles, DM-only secrets, session notes, Source/Monsters, Source/Treasure, Source/Classes, Source/Spells, mechanical DCs, XP values, and hidden lore.
+### 1. Deities & Primordials
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/Telara\|Telara]]** — The Prime Weaver, creator of the Loom of Creation.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/Pale Night\|Pale Night]]** — The Veiled Mother, ancient entity of cold primordial void.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God Of The Plane Of Fire/Ignivor, the Infernal Forge\|Ignivor, the Infernal Forge]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God Of Plane Of Water/Nereia, the Depthmother\|Nereia, the Depthmother]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Air/Aurelion, the Skycaller\|Aurelion, the Skycaller]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Earth/Terridon, the Unyielding Pillar\|Terridon, the Unyielding Pillar]]**
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Wild Balance/Syltheris, the Eternal Bloom\|Syltheris, the Eternal Bloom]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Secrets/Zathara, the Whispering Tide\|Zathara, the Whispering Tide]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of the Plane of Infinite Hunger/Vorzath, the Maw Eternal\|Vorzath, the Maw Eternal]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Fragmented Memories/Eryndar, Keeper of Echoes\|Eryndar, Keeper of Echoes]]**
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Eternal Craft/Kaldryn, the Eternal Artisan\|Kaldryn, the Eternal Artisan]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of The Plane of Avarice/Grelthor, the Golden Hoard\|Grelthor, the Golden Hoard]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Unity/Althera, the Great Weaver\|Althera, the Great Weaver]]** • **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gods/God of Plane of Shattered Law/Regnath, the Shardlord\|Regnath, the Shardlord]]**
 
-*To publish via Obsidian Publish:* Simply share the `Player-Friendly` folder. Players will see a complete, spoiler-free setting guide.
+### 2. Leaders of the Pale Lodge
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Aelira, the Weftkeeper\|Aelira, the Weftkeeper]]** — Spindle Lord of Harmony and chief diplomat.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Kaelthar, the Threadwarden\|Kaelthar, the Threadwarden]]** — Spindle Lord of Severance and martial commander.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/The Silent Spool\|The Silent Spool]]** — Prophet and mystical keeper of the Nexus Spire.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Vaelen Corryn\|Vaelen Corryn]]** — Senior field handler ("The Stitcher") and primary contact.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Captain Seris Vael\|Captain Seris Vael]]** — Githyanki pilot and tactical advisor aboard *The Wraith*.
+* Detailed roster: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Key NPCs - Pale Lodge\|Key NPCs - Pale Lodge]]
+
+### 3. Faction Leaders, Planar Governors & City Figures
+* **The Gilded Caliper**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Lady Seraphina Aurum\|Lady Seraphina Aurum]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Arbiter Valerie Sterling\|Arbiter Valerie Sterling]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Hesperus Vane\|Hesperus Vane]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Mintmaster Orin Sterling\|Mintmaster Orin Sterling]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Key NPCs - The Gilded Caliper\|Key NPCs - The Gilded Caliper]]
+* **The Dreambound**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Maerith the Whisperer\|Maerith the Whisperer]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Xelthar\|Xelthar]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Arvix, the Dreambound Wanderer\|Arvix, the Dreambound Wanderer]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Key NPCs - Dreambound\|Key NPCs - Dreambound]]
+* **The Ironbound Covenant**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Warden-Captain Jaxen Vance\|Warden-Captain Jaxen Vance]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Warmaster Grash\|Warmaster Grash]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Key NPCs - The Ironbound Covenant\|Key NPCs - The Ironbound Covenant]]
+* **Lords & Darklords of the Mists**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Count Strahd von Zarovich\|Count Strahd von Zarovich]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Azalin Rex\|Azalin Rex]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Dr. Viktra Mordenheim\|Dr. Viktra Mordenheim]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Duchess Saidra d'Honaire\|Duchess Saidra d'Honaire]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Lady Ivana Boritsi\|Lady Ivana Boritsi]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Chakuna\|Chakuna]]
+* **Shard & Planar Commanders**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Arch-Curator Kaelen\|Arch-Curator Kaelen]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Commander Valen of Accord\|Commander Valen of Accord]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Chainlord Vane Shadow-Drift\|Chainlord Vane Shadow-Drift]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Grand Storm-Marshal Vaelen Gale\|Grand Storm-Marshal Vaelen Gale]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/High Druid Lyra Heartbloom\|High Druid Lyra Heartbloom]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/High Glutton Malakor\|High Glutton Malakor]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Kallian the Abyssal\|Kallian the Abyssal]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Lord Magistrate Ralvax Firemane\|Lord Magistrate Ralvax Firemane]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Prime Cogwright Torin\|Prime Cogwright Torin]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Shade-Mistress Morwen\|Shade-Mistress Morwen]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Tidecaller Thalassa\|Tidecaller Thalassa]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Warlord Vekthar Flamebound\|Warlord Vekthar Flamebound]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Forgecaller Brann\|Forgecaller Brann]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Forge-Judge Kael\|Forge-Judge Kael]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Matron Varis Gloomweaver\|Matron Varis Gloomweaver]]
+* **City Masters & Guild Leaders**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Grand Vizier Jazeel al-Zahr\|Grand Vizier Jazeel al-Zahr]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Malikah Soraya of the Cinder Veil\|Malikah Soraya of the Cinder Veil]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/High Chancellor Aeris Windveil\|High Chancellor Aeris Windveil]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/High Priestess Nylaris Waveborn\|High Priestess Nylaris Waveborn]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Master Arcanist Tolaris Shellsong\|Master Arcanist Tolaris Shellsong]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Overseer Vrakhan Blackshard\|Overseer Vrakhan Blackshard]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Khanum Zoraya of the Seven Veins\|Khanum Zoraya of the Seven Veins]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Sky Captain Kaelor Stormwing\|Sky Captain Kaelor Stormwing]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Chief Justiciar Varos\|Chief Justiciar Varos]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Advocate Brenda Vance\|Advocate Brenda Vance]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Master Weaver Seraphina Loom-Singer\|Master Weaver Seraphina Loom-Singer]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Gildmaster Vane Karr\|Gildmaster Vane Karr]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Vorath Greedeater\|Vorath Greedeater]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Master Rhydian Glasscarver\|Master Rhydian Glasscarver]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Archivist Selene Pale\|Archivist Selene Pale]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Forge-Mistress Skraka Bone-Grinder\|Forge-Mistress Skraka Bone-Grinder]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Master Alchemist Morbus Vile\|Master Alchemist Morbus Vile]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Master Scrivener Oras\|Master Scrivener Oras]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Chimera Veil\|Chimera Veil]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/High Priest Aethelgard\|High Priest Aethelgard]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Huntmaster Torgar\|Huntmaster Torgar]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Archdruid Selvan\|Archdruid Selvan]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Master Cloudshaper Zephyr\|Master Cloudshaper Zephyr]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Riftwalker Vael\|Riftwalker Vael]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Captain Lysara Driftwave\|Captain Lysara Driftwave]]
+* **Legendary Mages & Scholars**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Tasha (Iggwilv), the Mother of Witches\|Tasha (Iggwilv), the Mother of Witches]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Halaster Blackcloak, the Mad Weaver\|Halaster Blackcloak, the Mad Weaver]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Vecna, the Whispered Secret\|Vecna, the Whispered Secret]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Hook, the Thread-Cartographer\|Hook, the Thread-Cartographer]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Archivist Mauren Coldsteel\|Archivist Mauren Coldsteel]]
+* **Champions, Outcasts & Barkeeps**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Stitch, the Frayed End Barkeep\|Stitch, the Frayed End Barkeep]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Dorrim Ashvein\|Dorrim Ashvein]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Garrick the Frayed\|Garrick the Frayed]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Elder Oakhaven\|Elder Oakhaven]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Urdakael, the Unbroken\|Urdakael, the Unbroken]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Thessivex the Still\|Thessivex the Still]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Vexiryn the Unbowed\|Vexiryn the Unbowed]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Halverak the Shorn\|Halverak the Shorn]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Norath of the Leaving Flame\|Norath of the Leaving Flame]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Aeldris the Dim\|Aeldris the Dim]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Captain Sariss Voryn\|Captain Sariss Voryn]]
 
 ---
 
-*"Every door is a gateway, every stranger is a survivor, and every step is a choice between restoration... or unraveling."*
+## ⚡ Cosmology, Cosmic Conflicts & Beings of Power
 
-**Welcome to the Shattered Loom.**
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Blood War\|The Blood War]]** — The eternal metaphysical war between Devils (Rigid Tyranny) and Demons (Total Entropy).
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Crimson Weave\|The Crimson Weave]]** — The Loom fragment of blood, lineage, and vitality.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Elder Evils\|The Elder Evils]]** — Primal eldritch anomalies: Father Llymic, Ragnorra, Atropus, and Pandorym.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/The Trial of Asmodeus\|The Trial of Asmodeus]]** — The historic judgment defining lawful cosmic order and infernal contracts.
+
+### Beings of Power & Arch-Entities
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/Strahd von Zarovich\|Strahd von Zarovich]]** — Darklord of Barovia who stitched the Crimson Weave into Castle Ravenloft.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Librarian\|The Librarian]]** — Enigmatic master of the infinite Grand Archive.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Loom Warden\|The Loom Warden]]** — Primordial sentinel tasked with guarding the boundaries of the weave.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Great Dreamer\|The Great Dreamer]]** — Alien entity slumbering beneath the non-Euclidean city of Ry'leh.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/NPCs/Baba Lysaga\|Baba Lysaga]]** & **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/Malphas the Broker\|Malphas the Broker]]** — Ancient manipulators of planar destinies.
+* **The Dragons of the Apocalypse**: [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Dragons Of The Apocolyse/Thanathel, the Final Severance\|Thanathel, the Final Severance]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Dragons Of The Apocolyse/Keterus, the Sovereign Mandate\|Keterus, the Sovereign Mandate]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Dragons Of The Apocolyse/Mortha-Vahl, the Blight of Meaning\|Mortha-Vahl, the Blight of Meaning]], [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Cosmology/Beings of Power/The Dragons Of The Apocolyse/Vrakkas, the Friction of Being\|Vrakkas, the Friction of Being]].
+
+---
+
+## 🧬 Species & Bestiary (Lore Only)
+
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Hag Dragon\|Hag Dragon]]** — Fey-twisted draconic abominations native to the unmapped mists.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Sorrowsworn\|Sorrowsworn]]** — Living manifestations of psychological agony and emotional rot native to the Shadowfell.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Corpse Collector\|Corpse Collector]]** — Titanic armored constructs forged to harvest fallen warriors and soul-threads across battlefields.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Death's Head\|Death's Head]]** — Severed, floating heads created by foul necromancy drifting through planar borders.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Species/Black Beast of Bedlam\|Black Beast of Bedlam]]** — Extradimensional predators born of nightmare and chaos.
+
+---
+
+## 🛸 Magic & Vessels
+
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/Spell Jammers\|Spell Jammers]]** — Interplanar vessels navigating the Astral Sea (*The Wraith*, *Aether Gale*, *Emberwing*, *Verdant Voyager*, *Starbound Colossus*).
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/Legacy Items\|Legacy Items]]** — Weapons and relics of power that awaken new abilities as your deeds echo across the weave.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Magic/The Pact Primeval\|The Pact Primeval]]** — The foundational covenant of the Lower Planes.
+
+---
+
+## 📜 Campaign Chronicles (Session Logs)
+
+Step through the party's recorded adventures from the beginning of their journey:
+
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Sessions/Session 0\|Chronicle 0: Awakening & The Call of Telara]]** — Dreams of the Loom and individual departures toward the travel district.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Sessions/Session 1 - The Wraith and the Pale Lodge\|Chronicle 1: The Wraith and the Pale Lodge]]** — Astral voyage through the psychic tides, the encounter at the god-skull, and arrival at the Lodge.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Sessions/Session 2 - The Silent Singularity\|Chronicle 2: The Silent Singularity]]** — The Heart of the Darkfire, the paused Convergence Temple, and opening the Shatterpoint.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Sessions/Session 3 - The Blood and the Loom\|Chronicle 3: The Blood and the Loom]]** — Crossing into Barovia, navigating the Crimson Weave, and dealing with Count Strahd von Zarovich.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Sessions/Session 4 - Steel, Smoke, and Gold\|Chronicle 4: Steel, Smoke, and Gold]]** — The smelting pits of Metallos, gladiatorial confrontations, and uncovering cult sabotage.
+* **[[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Sessions/Session 5 - The Grand Archive\|Chronicle 5: The Grand Archive]]** — Infiltrating the infinite library, paying the tithe of memories, and uncovering forgotten history.
+
+---
+
+## 📌 Traveler's Common Knowledge
+
+| Term | What Every Adventurer Knows |
+| :--- | :--- |
+| **Shatterpoint** | A localized tear or portal between two planes of existence. |
+| **Golden Filaments** | Remnants of Telara's Loom holding drifting planes in orbit around the Nexus. |
+| **Soul-Thread** | The metaphysical strand of fate and identity bound to every sentient soul. |
+| **Mark of Telara** | A glowing thread-pattern on the skin that resonates near Loom shards. |
+| **The Frayed End** | The renowned neutral tavern in the Fractured Nexus where blades must stay sheathed. |
+| **Planar Bleed** | The environmental and magical bleeding of one plane into an adjacent realm. |
+
+---
+
+> *"Every door is a gateway, every stranger is a survivor, and every step is a choice between restoration... or unraveling."*
