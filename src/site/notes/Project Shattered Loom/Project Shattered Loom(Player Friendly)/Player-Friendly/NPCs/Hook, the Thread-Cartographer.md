@@ -14,11 +14,6 @@
 * **Personality**: Manic, brilliant, and desperately eager to prove their worth. Hook speaks in excited half-sentences, often correcting themselves aloud ("No, not *ley lines*—thread-tension! *Tug*, not flow!"). They are not ambitious for power or gold—only **recognition**. They believe that if they map the Loom itself (or even one fragment perfectly), Telara will *see* them and invite them into the Pale Lodge. They treat the party as both protectors and *witnesses* to their magnum opus.
 
 ---
-
----
-
----
-
 [[Project Shattered Loom/Project Shattered Loom/Factions/The Pale Lodge/The Pale Lodge\|The Pale Lodge]]
 [[Project Shattered Loom/Project Shattered Loom/Sessions/Session 1 - The Wraith and the Pale Lodge\|Session 1 - The Wraith and the Pale Lodge]]
 [[Loom Fragment\|Loom Fragment]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/project-shattered-loom/project-shattered-loom-player-friendly/player-friendly/np-cs/garrick-the-frayed/","dg-note-properties":{}}
 ---
 
-
+h
 # Garrick the Frayed (The Infiltrator)
 
 ![garrick_the_frayed.jpg](/img/user/Project%20Shattered%20Loom/Project%20Shattered%20Loom/Attachments/garrick_the_frayed.jpg)
