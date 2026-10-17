@@ -115,11 +115,12 @@
 
 | Hazard | Description | Environmental Peril |
 | :--- | :--- | :--- |
-| **Wild Magic Shatterpoint** | Unstable pockets where mortal spells trigger uncontrolled planar surges. | Roll on the Wild Magic Surge table whenever a spell of 1st level or higher is cast. |
-| **Ash-Choke Winds** | Volcanic particulate plumes sweeping off the Ashen Rift. | Rapid exhaustion and severe dehydration without protective wards |
-| **Shadowfell Bleed** | Creeping patches of negative energy that wither mundane vegetation. | Nonmagical plant life dies; living creatures cannot regain hit points via short rests in the area. |
-| **Fey Glamour Fog** | Scented violet fog that disorients travelers and alters sensory perception. | DC 14 Wis save; on failure, traveler is charmed and walks in circles for 1d4 hours. |* * *
+|
+|
+|
+|
 
+---
 ## Travel Routes & Major Corridors
 
 | Route Name | From / To | Distance / Travel Time | Hazards / Features |

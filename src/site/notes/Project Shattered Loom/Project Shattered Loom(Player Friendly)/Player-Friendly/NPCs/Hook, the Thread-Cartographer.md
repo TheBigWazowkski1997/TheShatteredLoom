@@ -25,15 +25,12 @@
 
 ## Known Abilities & Combat Style
 
-Hook is a formidable support/utility NPC. They avoid direct combat, using illusions, mobility, and their **Thread-Sense** to reposition. If forced to fight, they fight *dirty*—using environmental hazards, alchemical concoctions, and their shapechanging to escape. Their true value is **navigation and lore**: they can track Loom fragments, identify planar bleeds, and stabilize wild magic surges. |9 (−1)|14 (+2)|14 (+2)|17 (+3)|13 (+1)|15 (+2)| **Proficiency Bonus** +2 ***Shapechanger.*** As an action, Hook can change their appearance and voice. They can mimic any humanoid of Medium size they have seen. Their statistics remain the same. Equipment does not change. A creature can discern the disguise with a successful DC 17 Wisdom (Insight) check. ***Thread-Sense.*** Hook can sense the "tension" of Loom-threads within 120 ft. They gain advantage on Wisdom (Perception) and Intelligence (Investigation) checks to detect planar boundaries, portals, Shatterpoints, and Loom fragments. They can spend 1 minute studying an area to create a **Thread-Map** (see below). ***Uncanny Dodge.*** When an attacker Hook can see hits them with an attack, they can use their reaction to halve the damage. ***Evasion.*** If Hook is subjected to an effect that allows a Dexterity saving throw for half damage, they take no damage on a success and half on a failure. ***Innate Spellcasting.*** Hook's spellcasting ability is Intelligence (spell save DC 14, +6 to hit). They can innately cast the following spells, requiring no material components:
+Hook is a formidable support and utility scholar. They avoid direct combat, using illusions, mobility, and their **Thread-Sense** to reposition. If forced to fight, they fight *dirty*—using environmental hazards, alchemical concoctions, and their shapechanging abilities to escape. Their true value is **navigation and lore**: they can track Loom fragments, identify planar bleeds, and stabilize wild magic surges.
 
-* **At will:**: *mage hand, minor illusion, prestidigitation*.
-* **3/day each:**: *detect magic, identify, comprehend languages*.
-* **1/day each:**: *arcane eye, locate object, scrying*.
-* **Cantrips (at will):**: *light, mage hand, message, minor illusion, prestidigitation, true strike*.
-* **1st level (4 slots):**: *absorb elements, detect magic, disguise self, expedite retreat, identify, shield, silent image*.
-* **2nd level (3 slots):**: *darkvision, detect thoughts, invisibility, misty step, see invisibility*.
-* **3rd level (2 slots):**: *clairvoyance, nondetection, tiny hut*.
+* **Shapechanger**: Hook can alter their appearance and voice at will, mimicking any humanoid they have seen with uncanny accuracy.
+* **Thread-Sense**: Hook can instinctively sense the tension of Loom-threads, detecting planar boundaries, portals, Shatterpoints, and Loom fragments, and can produce detailed Thread-Maps of surveyed regions.
+* **Evasive & Slippery**: Skilled at dodging danger and turning lethal planar bursts into glancing blows.
+* **Innate Talents & Magic**: Hook casts magic intuitively to assist in survival and research, frequently employing utility illusions and divination spells such as *detect magic*, *identify*, *comprehend languages*, *locate object*, *scrying*, *misty step*, *invisibility*, and *nondetection*.
 
 ---
 
@@ -44,7 +41,7 @@ Hook's prized possession. A leather-bound tome with pages that **scorch but do n
 *   Hand-drawn maps overlaid with glowing ember-red filaments tracking "energy currents that *tug* like thread under tension."
 *   Notes on *heat without flame* and *fire that whispers*.
 *   References to a **Resonant Anchor**—the Loom Fragment.
-*   **Mechanic:** When the party is near a Loom Fragment, Shatterpoint, or major planar bleed, the Journal reacts (pages turn on their own, ink rearranges, hum intensifies). Grant the party **advantage on Survival/Arcana checks** to locate the source.
+*   **Planar Resonance:** When near a Loom Fragment, Shatterpoint, or major planar bleed, the Journal reacts (pages turn on their own, ink rearranges, hum intensifies), offering clear guidance and clues to help locate the source.
 
 ### **Hook's Motivation: The Pale Lodge**
 Hook is *unaffiliated* but does extensive work for the Pale Lodge (mapping planar bleeds, tracking fragment resonance, cataloging Shatterpoints). They believe **one perfect map** will earn them the Mark and an invitation. They are **not** a Lodge agent—they have no authority, no backup, and no safety net. This makes them *desperate* to succeed, which can lead to reckless decisions.

@@ -14,7 +14,7 @@
 
 ## The Three Great Metropolises
 
-### 1. [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers#1. Whisperhold: The City of Echoes\|Whisperhold: The City of Echoes]]
+### 1. [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers#1. Whisperhold: The City of Echoes\|Whisperhold: The City of Echoes]]
 * **Location**: Subterranean deeps beneath the northern abyss, housed within an immense cavern of luminescent crystalline stalactites.
 * **Role**: The archival hub, premier espionage sanctuary, and center of planar information brokerages.
 * **Key Landmarks**:
@@ -23,7 +23,7 @@
   * **The Labyrinth of Whispers**: Subterranean basalt tunnels beneath the city humming with the discarded secrets of dead gods.
 * **Ruler / Leadership**: The Silent Order, with trade and intelligence networks dominated by information entities such as [[Project Shattered Loom/Project Shattered Loom/NPC's/Chimera Veil\|Chimera Veil]] and [[Master Scrivener Oras Crypt-Tongue\|Master Scrivener Oras Crypt-Tongue]].
 
-### 2. [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers#2. Veilscar: The Shattered Citadel\|Veilscar: The Shattered Citadel]]
+### 2. [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers#2. Veilscar: The Shattered Citadel\|Veilscar: The Shattered Citadel]]
 * **Location**: Suspended directly above the swirling void of the Echoing Fracture.
 * **Role**: Floating ruins of the Keepers of Revelation, now a boomtown for shard-seekers, scavengers, and esoteric scholars.
 * **Key Landmarks**:
@@ -32,7 +32,7 @@
   * **The Radiant Bridges**: Ethereal, shimmering walkways of pure thought connecting floating stone platforms.
 * **Ruler / Leadership**: Anarchic council of Shard Seekers and Chronomantic Scavengers, loosely coordinated by [[Project Shattered Loom/Project Shattered Loom/NPC's/Archivist Selene Pale\|Archivist Selene Pale]].
 
-### 3. [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers#3. Umbralith: The Shadowed City\|Umbralith: The Shadowed City]]
+### 3. [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers#3. Umbralith: The Shadowed City\|Umbralith: The Shadowed City]]
 * **Location**: The southern jagged basalt archipelago, built upon obsidian promontories jutting into the ink-black sea.
 * **Role**: Autocratic citadel of conspiracy, shadow-crafting, and covert assassinations.
 * **Key Landmarks**:
@@ -122,7 +122,7 @@
 
 ## Related Links
 
-* [[Project Shattered Loom/Project Shattered Loom(Player Friendly)/Player-Friendly/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers\|Plane of Secrets: Ocean of Whispers]]
+* [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Plane of Secerts Ocean of Whispers\|Plane of Secrets: Ocean of Whispers]]
 * [[Master Scrivener Oras Crypt-Tongue\|Master Scrivener Oras Crypt-Tongue]]
 * [[Project Shattered Loom/Project Shattered Loom/NPC's/Chimera Veil\|Chimera Veil]]
 * [[Diviner Thessaly\|Diviner Thessaly]]
